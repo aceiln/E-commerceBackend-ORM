@@ -40,7 +40,7 @@ MySQL, express, Insomnia, Node.js, and a code application is required to run thi
 
 ## Usage
 
-To use this application, open your coding terminal and install the needed packages with the 'npm i' function. Log into your MySql within the terminal, source the schema document, and run the seed 'npm run seed;'. Once everything is initated through 'npm run start', open insomnia and enter the corresponding localhost route.
+To use this application, open your coding terminal and install the needed packages with the 'npm i' function. Create a .env file with the user info shown in the .env example file. Log into your MySql within the terminal, source the schema document, and run the seed 'npm run seed;'. Once everything is initated through 'npm run start', open insomnia and enter the corresponding localhost route. 
 
 ## Demo
 
